@@ -1,0 +1,102 @@
+h1 {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 500;
+}
+
+h2,h3,label {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+}
+
+nav{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 500;
+}
+
+.fuenteHamburguesa{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 400;
+}
+
+p,h5,h6{
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 300;
+}
+
+
+#resaltado{
+    font-weight: bold;
+}
+
+
+.navcolor {
+    background-color: #fecdbc;
+}
+
+.blanco {
+    color: #ffffef;
+}
+
+.centro {
+    vertical-align: middle;
+}
+
+.floatizq {
+    float: left;
+}
+
+.margenSuperior {
+    margin-top: 79px;
+   
+}
+
+.margen{
+    margin-top: 100px;
+}
+
+.margenInferior {
+    
+    margin-bottom: 200px;
+}
+
+.fondoBody {
+    background-color: #fefefe;
+}
+
+.galeria {
+    padding-left: 50px;
+}
+
+.botonColor {
+    background-color: #bceefe !important;
+}
+
+.colorFooter{
+   background-color:  #fecdbc;
+}
+
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+    }
+
+@media screen and (max-width: 600px) {
+    .display-carrousel {
+        display: none;
+    }
+    
+    .display-img {
+        display: contents;
+    }
+}
+
+.cardColor {
+    background-color: #fecdbc !important;
+}
+
+.pieDePagina {    
+  
+  bottom: 0;
+  width: 100%;
+  height: auto;
+}
