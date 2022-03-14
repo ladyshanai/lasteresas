@@ -1,0 +1,23 @@
+lasteresas.com.ar FREE DNS
+
+Domain Name
+
+FreeDNS is pending authorization
+
+ACTIVE		
+MANAGE+
+Please create a TXT record with the following value at your current DNS provider:
+
+Record type: TXT
+
+Host: lasteresas.com.ar
+
+Value: he6470b515fbc4e5c9e365532a9a4b337
+
+You can find more information on authorizing FreeDNS here.
+
+A Records (@):
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
